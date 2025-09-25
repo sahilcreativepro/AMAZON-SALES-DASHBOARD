@@ -28,7 +28,7 @@ This project helps track sales, revenue, customer behavior, and product performa
 *(Add a screenshot of your Power BI dashboard here)*
 
 ```md
-Screenshot 2025-04-12 190415.png
+https://github.com/sahilcreativepro/shopify-sales-dashboard/blob/main/Screenshot%202025-04-12%20190415.png?raw=true
 ```
 
 ---
