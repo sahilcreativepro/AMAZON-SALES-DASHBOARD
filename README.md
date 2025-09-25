@@ -28,7 +28,7 @@ This project helps track sales, revenue, customer behavior, and product performa
 *(Add a screenshot of your Power BI dashboard here)*
 
 ```md
-![Amazon Dashboard Screenshot](dashboard.png)
+Screenshot 2025-04-12 190415.png
 ```
 
 ---
