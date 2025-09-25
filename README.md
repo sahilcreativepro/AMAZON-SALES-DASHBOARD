@@ -70,7 +70,5 @@ For feedback, collaboration, or queries:
 * Email: [your.email@example.com](mailto:your.email@example.com)
 * LinkedIn: [Your LinkedIn Profile](#)
 
----
 
-⚡ Do you want me to **merge both dashboards (Shopify + Amazon)** into a single **E-Commerce Analytics Repository** README, or keep them **separate with their own repos**?
 
