@@ -1,75 +1,76 @@
-# Shopify Sales Dashboard
+# Amazon Sales Dashboard
 
-📊 A Power BI dashboard designed to analyze and visualize **Shopify sales performance**.
-This dashboard provides valuable insights into revenue, orders, top-performing products, customers, and regions — helping businesses make data-driven decisions with ease.
+📊 An interactive **Power BI dashboard** for analyzing and visualizing **Amazon sales performance**.
+This project helps track sales, revenue, customer behavior, and product performance to support better business decisions.
 
 ---
 
 ## 🚀 Features
 
-* **Sales Overview**: Track total sales, revenue growth, and order trends.
-* **Product Insights**: Identify best-selling products and categories.
-* **Customer Analysis**: Monitor repeat customers vs. new customers.
-* **Geographic Insights**: Visualize sales distribution across regions.
-* **Time-Based Analysis**: Compare sales by day, month, quarter, or year.
+* Sales Overview with KPIs such as revenue, profit, and order volume
+* Customer Insights including new vs. returning customers
+* Product Analysis to identify top-performing products and categories
+* Region-wise Performance visualization of sales across geographies
+* Time-Series Analysis for trends by day, month, or year
 
 ---
 
 ## 🛠️ Tools & Technology
 
-* **Power BI** – For building interactive dashboards
-* **Shopify Data** – Source of e-commerce transactions
-* **Data Modeling** – Measures & KPIs for better insights
+* Power BI – for interactive reporting and dashboards
+* Amazon Sales Data – as the primary data source
+* DAX & Data Modeling – for creating measures and KPIs
 
 ---
 
 ## 📷 Dashboard Preview
 
-*(Add screenshot of your Power BI dashboard here)*
+*(Add a screenshot of your Power BI dashboard here)*
 
 ```md
-![Shopify Dashboard Screenshot](dashboard.png)
+![Amazon Dashboard Screenshot](dashboard.png)
 ```
 
 ---
 
-## 📂 File Structure
+## 📂 Repository Structure
 
 ```
-📦 shopify-sales-dashboard
- ┣ 📄 Shopify Sales Dashboard.pbix   # Power BI file
- ┣ 📄 README.md                      # Project documentation
- ┗ 📄 dashboard.png                  # Dashboard preview (optional)
+📦 amazon-sales-dashboard
+ ┣ 📄 AMAZON SALES DASHBOARD.pbix   # Power BI dashboard file
+ ┣ 📄 README.md                     # Project documentation
+ ┗ 📄 dashboard.png                 # Dashboard preview (optional)
 ```
 
 ---
 
 ## 📌 How to Use
 
-1. Clone or download this repository.
-2. Open **Shopify Sales Dashboard.pbix** in **Power BI Desktop**.
-3. Connect to your Shopify dataset or replace with your own.
-4. Explore interactive dashboards and customize as needed.
+1. Download or clone this repository.
+2. Open **AMAZON SALES DASHBOARD.pbix** using **Power BI Desktop**.
+3. Connect to your Amazon sales dataset or replace with your own data.
+4. Interact with the dashboard to explore insights.
 
 ---
 
 ## 🎯 Use Cases
 
-* E-commerce store owners tracking performance
-* Business analysts studying customer behavior
-* Decision-makers monitoring revenue and growth
-* Students & learners exploring Power BI projects
+* Business owners monitoring Amazon sales growth
+* Analysts tracking customer and product performance
+* Decision-makers identifying top regions and trends
+* Students & learners practicing Power BI with real-world data
 
 ---
 
 ## 📬 Contact
 
-If you’d like to connect or collaborate:
+For feedback, collaboration, or queries:
 
-* **Author**: Your Name
-* **Email**: [your.email@example.com](mailto:your.email@example.com)
-* **LinkedIn**: [Your LinkedIn Profile](#)
+* Author: Your Name
+* Email: [your.email@example.com](mailto:your.email@example.com)
+* LinkedIn: [Your LinkedIn Profile](#)
 
 ---
 
-👉 Would you like me to also **add GitHub badges (like Power BI, Shopify, etc.)** for a more professional look, or keep it **minimal and clean**?
+⚡ Do you want me to **merge both dashboards (Shopify + Amazon)** into a single **E-Commerce Analytics Repository** README, or keep them **separate with their own repos**?
+
