@@ -67,8 +67,9 @@ https://github.com/sahilcreativepro/shopify-sales-dashboard/blob/c98c9777a87752f
 For feedback, collaboration, or queries:
 
 * Author: Your Name
-* Email: [your.email@example.com](mailto:your.email@example.com)
-* LinkedIn: [Your LinkedIn Profile](#)
+* Email: (storyofsahil@gmail.com)
+* LinkedIn: (www.linkedin.com/in/
+sahil-kumar-1079b135b)
 
 
 
