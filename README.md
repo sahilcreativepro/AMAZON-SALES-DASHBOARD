@@ -25,7 +25,7 @@ This project helps track sales, revenue, customer behavior, and product performa
 
 ## 📷 Dashboard Preview
 
-*([Screenshot 2025-04-12 190415.png](https://github.com/sahilcreativepro/AMAZON-SALES-DASHBOARD/blob/b6733e645ace5f22902c393d9d5964a416185df3/Screenshot%202025-04-12%20190415.png))*
+*([Screenshot 2025-04-12 190415.png](https://github.com/sahilcreativepro/AMAZON-SALES-DASHBOARD/blob/509cf961496c90159b3110c7f310842adec11481/Screenshot%202025-09-28%20222101.png))*
 
 ```md
 Screenshot 2025-04-12 190415.png
